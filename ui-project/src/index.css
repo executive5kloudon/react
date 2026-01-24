@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* Navbar ki height ke liye space */
+body {
+  padding-top: 60px;
+}
+
+/* Navbar */
+nav {
+  position: sticky;
+  top: 0;
+  height: 60px;
+  background: white;
+  z-index: 1000;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Nav items */
+nav ul {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
