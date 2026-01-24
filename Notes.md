@@ -17,6 +17,29 @@ iife ex:- let fnc = (function(){})();
 3. Factory Reset Function
 
 rafce
+
+------------------------------------------------------------------------------------------------------
+
+1. Real DOM in js
+2. Virtual DOM in react
+
+JSX -> JavaScript XML
+HTML + JavaScript
+
+for interview -> otp generator using react 
+
+Making folder with vite
+
+react % npm create-react-app
+npm create vite
+
+shortcut:- rafce -> extention must downloaded : simple react snippet/ ES7 React/Redux
+
+function return krte time sirf ek hi chiz return kr skta hai esliye, ham empty tags ka use karenge: <> </>
+
+3. Components
+4. Props
+
 -----------------------------------------------------------------------------------------------------------
 
 
@@ -30,3 +53,6 @@ it is a utility first library
 10 functions
 
 11. Hooks
+
+
+*useState
