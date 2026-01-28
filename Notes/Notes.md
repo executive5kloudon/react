@@ -65,4 +65,12 @@ it is a utility first library
 
 16. Notes Application
 
-17. Local Storage
+17. Local Storage -> Is a ur browser memory
+
+
+18. API Calling  
+common methods ->1. fetch, 2. axios
+
+Fetch js ka hota hai or axios third party hai data lane ke liye 
+
+19. useEffect
