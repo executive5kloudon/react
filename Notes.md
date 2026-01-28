@@ -64,3 +64,5 @@ it is a utility first library
 15. two way Binding
 
 16. Notes Application
+
+17. Local Storage
