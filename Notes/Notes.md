@@ -74,5 +74,4 @@ common methods ->1. fetch, 2. axios
 Fetch js ka hota hai or axios third party hai data lane ke liye 
 
 19. useEffect
-
 20. React-Router-DOM
