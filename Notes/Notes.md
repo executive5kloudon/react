@@ -75,3 +75,11 @@ Fetch js ka hota hai or axios third party hai data lane ke liye
 
 19. useEffect
 20. React-Router-DOM
+
+21. Advance Routing  
+
+*useParams
+
+22. Context API -> Data Centerliziation 
+
+* Children as Props
